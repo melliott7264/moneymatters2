@@ -13,7 +13,7 @@ This application is an economics focused news sharing website where users can po
 
 ## Installation
 
-This application runs on Heroku.com at
+This application runs on Heroku.com at https://still-sea-70396.herokuapp.com/.
 
 ## Usage
 
@@ -34,6 +34,8 @@ This application runs on Heroku.com at
 
 - CSS: react-bootstrap
 - API: newsapi.org
+
+The GitHub repository is at https://github.com/melliott7264/moneymatters2.
 
 ![Money Matters screenshot](./MoneyMattersThumb-1.jpg)
 
