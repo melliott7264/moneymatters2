@@ -1,0 +1,10 @@
+.jumbotron {
+  padding: 1rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #cbebda;
+  border-radius: .3rem;
+}
+
+.nav-link {
+  margin-left: 20px;
+}

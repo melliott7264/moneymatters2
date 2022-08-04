@@ -1,0 +1,18 @@
+/* Extra styling for Comment component - Bootstrap takes care of most of the styling */
+
+.deleteBtn {
+  margin-left: 20px;
+}
+
+.editBtn {
+  margin-right: 20px;
+}
+
+.metaGrp,
+.commentBody {
+  margin-top: 10px;
+}
+
+.username {
+  margin-left: 30px;
+}
