@@ -11,7 +11,7 @@ const AppNavbar = () => {
 
   return (
     <>
-      <Navbar bg="dark" variant="dark">
+      <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container fluid className="justify-content-center">
           <Navbar.Brand style={{ color: 'lightgreen' }} href="/">
             <img
